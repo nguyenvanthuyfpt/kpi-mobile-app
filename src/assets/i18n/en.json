@@ -1,0 +1,26 @@
+{
+    "translation": {
+      "hdr.user-info":"USER INFORMATION",
+      "lbl.userid":"User ID",
+      "lbl.username":"User name",
+      "lbl.email":"Email",
+      "lbl.code":"PWD Code",
+      "lbl.name":"Name",
+      "lbl.address":"Address",
+      "lbl.location": "You are here",
+      "lbl.login.has-account": "Don't have an account?",
+      "tab.general":"General info",
+      "tab.support":"Supported",
+      "tab.home-visit":"Home visit",
+      "lbl.hello":"Hello",
+      "url.register":"Register",
+      "url.logout":"Logout",
+      "url.vi":"Vietnamese",
+      "url.en":"English",
+      "btn.search":"Search",
+      "btn.cancel":"Cancel",
+      "plh.pwd.code":"Input pwd code",
+      "this line is translated":"This line is translated",
+      "label.no.data":"No data found"
+    }
+  }
